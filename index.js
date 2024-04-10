@@ -44,5 +44,5 @@
 
 
   document.getElementById("submit-button").addEventListener("click", function() {
-    window.location.href = "mailto:bjpi@bjbraila.ro";
+    window.location.href = "mailto:laurentiu.caramarin@gmail.com";
 });
